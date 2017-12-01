@@ -77,7 +77,7 @@
                                 html = '困难难度';
                                 break;
                             case 3:
-                                html = '庞隆来了';
+                                html = '勇哥来了';
                                 oP.style.color = '#f00';
                                 oP.style.fontWeight = 'bold';
                                 oP.onmouseenter = function(){
