@@ -44,7 +44,7 @@
                     Game.score = 0;
                     Game.ifEnd = false;
                     var oH = document.createElement('h1');
-                        oH.innerHTML = '飞机大战v1.0';
+                        oH.innerHTML = '打小姗';
                         oH.style.cssText = 'color:#fff;font-size:26px;font-weight:normal;padding-top:50px;';
                         oDiv.appendChild( oH );
                     for (var i=0;i<4;i++ )
